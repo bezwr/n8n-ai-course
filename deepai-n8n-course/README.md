@@ -1,0 +1,1 @@
+# Rebuilt project with Vite and error handling
